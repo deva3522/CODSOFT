@@ -20,8 +20,7 @@ their respective species.
 
 **->** Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal
-measurements. This dataset is widely used for introductory
-classification tasks.
+measurements.
 
 **TASK 5 CREDIT CARD FRAUD**
 
